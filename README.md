@@ -24,9 +24,7 @@ Además:
 
 ## English
 ---
-The Sudoku is a logic puzzle placement game that has become extremely popular worldwide. Here I explain its main characteristics:
-
-Definition and origin: The Sudoku is a mathematical game invented at the end of the 1970s and popularized in Japan in the 1980s. Its name comes from the Japanese words "su," meaning "number," and "doku," meaning "alone." Literally, "Sudoku" means "numbers alone" or "unique numbers."
+Sudoku is a logical placement puzzle that has become extremely popular around the world. It was invented in the late 1970s and became popular in Japan in the 1980s. Its name comes from the Japanese "su," meaning "number," and "doku," meaning "alone." Literally, "Sudoku" means "single numbers" or "single numbers."
 
 #### The objective of the Sudoku is to fill in a 9x9 grid divided into 3x3 sub-grids using the numbers 1 through 9. The main rules are:
 
