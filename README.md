@@ -9,11 +9,7 @@
 
 ## Español
 ---
-El Sudoku es un rompecabezas lógico de colocación que se ha vuelto extremadamente popular en todo el mundo. Aquí te explico sus principales características:
-
-
-Definición y origen:
-El Sudoku es un juego matemático que se inventó a finales de la década de 1970 y se popularizó en Japón en la década de 1980. Su nombre proviene del japonés "su", que significa "número", y "doku", que significa "solo". Literalmente, "Sudoku" significa "números solos" o "números únicos".
+El Sudoku es un rompecabezas lógico de colocación que se ha vuelto extremadamente popular en todo el mundo. Se inventó a finales de la década de 1970 y se popularizó en Japón en la década de 1980. Su nombre proviene del japonés "su", que significa "número", y "doku", que significa "solo". Literalmente, "Sudoku" significa "números solos" o "números únicos".
 
 
 El objetivo del Sudoku es rellenar una cuadrícula de 9x9 celdas dividida en subcuadrículas de 3x3, utilizando los números del 1 al 9. Las reglas principales son:
