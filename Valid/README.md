@@ -1,4 +1,4 @@
-Valid Sudoku
+# Valid Sudoku
 ---
 #### *This program determines if a 9 x 9 Sudoku board is valid. ([Program](ValidSudoku.py))*
 

@@ -1,4 +1,4 @@
-Sudoku
+# Sudoku
 ---
 ### Contents:
 - [Solver](Solver)

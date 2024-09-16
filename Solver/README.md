@@ -1,4 +1,4 @@
-Sudoku Solver
+# Sudoku Solver
 ---
 #### *Program to solve a Sudoku puzzle by filling the empty cells. ([Program](SudokuSolver.py))*
 ##### This sudoku solution satisfy all of the following rules:
