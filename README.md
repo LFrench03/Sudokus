@@ -12,12 +12,12 @@
 El Sudoku es un rompecabezas lógico de colocación que se ha vuelto extremadamente popular en todo el mundo. Se inventó a finales de la década de 1970 y se popularizó en Japón en la década de 1980. Su nombre proviene del japonés "su", que significa "número", y "doku", que significa "solo". Literalmente, "Sudoku" significa "números solos" o "números únicos".
 
 
-El objetivo del Sudoku es rellenar una cuadrícula de 9x9 celdas dividida en subcuadrículas de 3x3, utilizando los números del 1 al 9. Las reglas principales son:
+#### El objetivo del Sudoku es rellenar una cuadrícula de 9x9 celdas dividida en subcuadrículas de 3x3, utilizando los números del 1 al 9. Las reglas principales son:
 - No se debe repetir ningún número en una misma fila, columna o subcuadrícula.
 - Se proporcionan algunas celdas ya llenas (llamadas "números dados" o "pistas") para ayudar a resolver el rompecabeza.
 
 
-Además:
+#### Además:
 - Un Sudoku bien planteado solo puede tener una solución única.
 - La construcción de un Sudoku requiere al menos 17 pistas iniciales.
 - El Sudoku es una excelente práctica para mejorar la concentración, la lógica y las habilidades de resolución de problemas.
